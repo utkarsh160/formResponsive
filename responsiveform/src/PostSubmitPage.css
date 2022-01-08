@@ -1,0 +1,75 @@
+body{
+    background: white;
+}
+
+
+.postsubmitpage{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;  
+    
+}
+
+
+
+
+
+.whatsapp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed ;
+   margin-left: 100px;
+   bottom: 50px ;
+   right: 20px ;
+   z-index: 99 ;
+   border: none ;
+   color: #fff ;
+   background: linear-gradient(to right, #04d86e, #07b833be) ;
+   border-radius: 50%;
+   height: 50px;
+   width: 50px;
+   
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed ;
+   margin-left: 100px;
+   margin-right: 5px;
+   bottom: 50px ;
+   right: 70px ;
+   z-index: 99 ;
+   border: none ;
+   color: #fff ;
+   background:linear-gradient(to right, #1c3ae4, #3607b8be) ;
+   border-radius: 50%;
+   height: 50px;
+   width: 50px;
+   
+}
+
+.chatwithus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed ;
+   margin-left: 100px;
+   margin-right: 15px;
+   bottom: 0px ;
+   right: 0px ;
+   z-index: 99 ;
+   border-radius: 5px;
+   border: none ;
+   color:black;
+   background: rgb(253, 247, 247) ;
+   padding: 10px;
+   
+
+}
+

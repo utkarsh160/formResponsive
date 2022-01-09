@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 .main_div {
   display: flex;
   width: 100%;
   height: 100vh;
   align-items: center;
   padding: 100px 5%;
+=======
+.main_div{
+    display: flex;
+    width:100%;
+    height: 100vh;
+   align-items: center;
+    padding:100px 5%;
+>>>>>>> ff38537cc90ca2e2b2749290fbdd63fd7f49c38b
 }
 .imagee2 {
   display: none;
@@ -49,5 +58,9 @@
     height: 400px;
     width: 100%;
     display: block;
+<<<<<<< HEAD
   }
+=======
+    }
+>>>>>>> ff38537cc90ca2e2b2749290fbdd63fd7f49c38b
 }

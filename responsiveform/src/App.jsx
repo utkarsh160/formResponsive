@@ -1,6 +1,4 @@
-import { useState, useEffect } from "react";
 import "./App.css";
-import Form from "./Form";
 import MainPage from "./MainPage";
 import PostSubmitPage from "./success";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";

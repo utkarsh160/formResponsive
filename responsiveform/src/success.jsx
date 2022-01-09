@@ -3,9 +3,8 @@ import img1 from './images/img1.jpg';
 import avatar from "./images/img_avatar.png";
 import video from "./images/1.png";
 import book from "./images/2.png";
-import "./PostSubmitPage.css";
 import "./success.css";
-import "./Footer.css"
+
 
 function success(){
     return(

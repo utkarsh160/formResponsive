@@ -221,3 +221,21 @@
         margin-left: 25%;
     }
 }
+
+@media(max-width:645px){
+    .footer{
+        width: 100vw;
+    }
+    .footera{
+        width: 70vw;
+    }
+    .footerb{
+        width: 80vw;
+
+    }
+    .footerc{
+        width: 90vw;
+        
+    }
+
+}

@@ -5,9 +5,7 @@ select{
     border:1px solid lightgray;
     color: #6f81a5;
 }
-select option[value="Student"]{
-    height: 500px!important;
-}
+
 body{
     overflow-x: hidden!important;
     background-color: rgba(245, 219, 186, 0.336) !important;
